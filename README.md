@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=180&section=header&text=Muhammad%20Tahir&fontSize=40&fontColor=00ffcc" />
+</p>
 
-<!--
-**tahirrashid797/tahirrashid797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=000000&center=true&vCenter=true&width=800&lines=BSCS+Student;Aspiring+Cyber+Security+Engineer;Software+Engineer+in+Progress;Java+%7C+Python+%7C+C%2B%2B+Developer" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=00FFAA"/>
+  </a>
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00FFAA"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 👨‍💻 About Me
+
+- 🎓 **Education:** BSCS Student  
+- 🔐 **Focus:** Aspiring Cyber Security Engineer  
+- 💻 **Tech Stack:** Java, Python, C++  
+- 🚀 **Goal:** Software Engineer / Cyber Security Expert  
+- 📍 **Location:** Pakistan  
+
+---
+
+## ⚔️ Cyber Quote
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=000000&center=true&vCenter=true&width=900&lines=Think+Like+a+Hacker+🧠;Code+Like+a+Developer+💻;Secure+Like+a+Cyber+Warrior+🔐" />
+</p>
+
+---
