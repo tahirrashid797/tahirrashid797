@@ -8,6 +8,10 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" alt="Cyber Security" width="700" style="border-radius: 10px;" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahirrashid797&label=PROFILE+VIEWS&color=00ffcc&style=flat" alt="Views" />
+</p>
+
 
 # 💫 About Me:
 - 🎓 *Education:* BSCS Student  <br>- 🔐 *Focus:* Aspiring Cyber Security Engineer<br>- 💻 *Tech Stack:* Java, Python, C++, C<br>- 🚀 *Goal:* Software Engineer / Cyber Security Expert<br>- 📍 *Location:* Pakistan  <br><br><br>
@@ -38,7 +42,13 @@
 ---
 [![](https://komarev.com/ghpvc/?username=tahirrashid797&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahirrashid797&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+---
 
 ## ⚔️ Cyber Quote
 <p align="center">
